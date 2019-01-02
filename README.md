@@ -24,6 +24,7 @@ This project is a part of submission for Udacity's Robotics Software Nanodegree 
 Before executing the project, a build is required. Execute following steps to build project and run it:
 
 ```
+$ mkdir build
 $ cd build
 $ cmake ../
 $ make
